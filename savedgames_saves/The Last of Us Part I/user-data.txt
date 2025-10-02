@@ -1,0 +1,69 @@
+built: Jun 25 2025 at 05:16:21
+changelist: 4169145
+machine-name: êØÌý
+active-menu: (none)
+service-display-name: xiao2731962667
+service-account-id: 824816797
+service-type: Steam
+username: 
+gamename: t1x
+branchname: t1xfinal-pc-1.1.5
+build-config: t1xfinal-pc-1.1.5-t1x-x64-rtm
+debug-feature-used: 0
+command-line: , service, steam
+active-jobs: Thread Idle, HavokShapeCastBaseJobDoFinishJob, Thread Idle, Thread Idle, Thread Idle, Thread Idle, Thread Idle, Thread Idle, Thread Idle, Thread Idle, Thread Idle, Thread Idle
+active-tasks: hunter-city-hun-hotel-kitchen-start
+script-call-stacks: <empty-array>
+dynamic-encounters: <empty-array>
+time-since-game-start-seconds: 20416.498047
+time-since-game-start-hours: 5
+time-since-game-start-bucket: extended
+gpu-name: NVIDIA GeForce RTX 3060 Ti
+gpu-driver-version: 560.94
+cpu-info: GenuineIntel 12th Intel(R)
+cpu-cores: 12
+display-resolution-width: 1920
+display-resolution-height: 1080
+os-version: Windows 10.0.26100
+windows-version: Win11
+pso-percent: 99
+last-gpu-crash-hresult-code: 0x0
+last-gpu-crash-hresult-string: S_OK
+memory-used-percent: 91
+memory-physical-total-bytes: 16980672512
+memory-physical-available-bytes: 1509842944
+memory-virtual-total-bytes: 140737488224256
+memory-virtual-available-bytes: 140131007954944
+memory-page-file-total-bytes: 34202693632
+memory-page-file-available-bytes: 1877434368
+memory-commit-total-bytes: 32325259264
+memory-commit-limit-bytes: 34202693632
+memory-page-size-bytes: 4096
+vram-free-bytes: 531574784
+vram-used-bytes: 6916829184
+vram-budget-bytes: 7439421440
+vram-over-budget: false
+vram-buffers-used-bytes: 677892608
+vram-buffers-budget-bytes: 1275068416
+vram-shaders-used-bytes: 244427008
+vram-shaders-budget-bytes: 553648128
+vram-ndgi-used-bytes: 50942152
+vram-ndgi-budget-bytes: 93323264
+vram-ndgi-over-budget: false
+vram-ndrg-used-bytes: 11900544
+vram-ndrg-budget-bytes: 15728640
+vram-render-pool-used-bytes: 96001200
+vram-render-pool-budget-bytes: 123731968
+vram-render-globals-used-bytes: 16139312
+vram-render-globals-budget-bytes: 16777216
+drive-c-total-bytes: 276392886272
+drive-c-free-bytes: 119366692864
+drive-d-total-bytes: 2048405794816
+drive-d-free-bytes: 1054675030016
+drive-e-total-bytes: 32314920960
+drive-e-free-bytes: 11869720576
+drive-h-total-bytes: 32215257088
+drive-h-free-bytes: 18626605056
+drive-i-total-bytes: 159182610432
+drive-i-free-bytes: 50535448576
+gpu-diagnostics: None

@@ -1,0 +1,38 @@
+# 操作系统生成的垃圾文件
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+ehthumbs.db
+ehthumbs_vista.db
+
+# Mac
+.DS_Store
+.Spotlight-V100
+.Trashes
+._*
+
+# 编辑器/IDE相关文件
+.idea/
+.vscode/
+*.sublime-*
+*.code-workspace
+
+# 临时文件和日志目录
+tmp/
+logs/
+*.log
+*.tmp
+
+# 脚本执行可能产生的临时文件
+sync_*.tmp
+restore_*.tmp
+
+# 明确不忽略存档目录（确保所有存档文件都能被跟踪）
+!documents_saves/
+!savedgames_saves/
+
+# 如果有特定游戏的缓存目录需要忽略，可以在这里添加
+# 例如：
+# documents_saves/Ghost of Tsushima DIRECTOR'S CUT/cache/
+# savedgames_saves/The Last of Us Part I/temp/
